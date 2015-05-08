@@ -1,0 +1,15 @@
+{
+  "name": "addon_kintone_form",
+  "description": "Create a Form integrated with Kintone app.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hissy/addon_kintone_form.git"
+  },
+  "author": "Takuro Hishikawa <hishikawa@concrete5.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-zip": "latest",
+    "gulp-composer": "latest"
+  }
+}

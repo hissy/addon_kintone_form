@@ -1,0 +1,12 @@
+{
+    "require": {
+        "hissy/kintone-php": "dev-master",
+        "petrgrishin/array-access": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "Takuro Hishikawa",
+            "email": "hishikawa@concrete5.co.jp"
+        }
+    ]
+}

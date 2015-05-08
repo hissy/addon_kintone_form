@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btKintoneForm">
+        <field name="bID" type="I">
+            <key />
+            <unsigned />
+        </field>
+        <field name="subDomain" type="C" size="255"/>
+        <field name="apiToken" type="C" size="255"/>
+        <field name="appID" type="I" size="10">
+            <NOTNULL/>
+            <DEFAULT value="0"/>
+            <UNSIGNED/>
+        </field>
+    </table>
+</schema>
